@@ -5,6 +5,7 @@ Data from the pilot (phase 1) of the [Oralytics clinical trial](https://clinical
 * [Oralytics Phase 1 Protocol Paper](https://www.sciencedirect.com/science/article/abs/pii/S1551714424000387)
 
 Data is in [oralytics_pilot_data.csv](https://github.com/StatisticalReinforcementLearningLab/oralytics_pilot_data/blob/main/oralytics_pilot_data.csv).
+Data with feature engineering (two additional features of `state_day_type` and `state_day_in_study` that were not used in the algorithm but could be helpful for building simulation environments) is in [pilot_data_with_feature_engineering.csv](https://github.com/StatisticalReinforcementLearningLab/oralytics_pilot_data/blob/main/pilot_data_with_feature_engineering.csv). 
 Naming convention for column names is in [naming_convention.md](https://github.com/StatisticalReinforcementLearningLab/oralytics_pilot_data/blob/main/naming_convention.md)
 
 ## Citing Our Data
