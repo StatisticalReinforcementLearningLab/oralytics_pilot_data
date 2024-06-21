@@ -21,3 +21,14 @@ If you use our data in any way, please cite us:
   publisher={Elsevier}
 }
 ```
+
+```
+@misc{trella2024oralytics,
+      title={Oralytics Reinforcement Learning Algorithm}, 
+      author={Anna L. Trella and Kelly W. Zhang and Stephanie M. Carpenter and David Elashoff and Zara M. Greer and Inbal Nahum-Shani and Dennis Ruenger and Vivek Shetty and Susan A. Murphy},
+      year={2024},
+      eprint={2406.13127},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.AI' full_name='Artificial Intelligence' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers all areas of AI except Vision, Robotics, Machine Learning, Multiagent Systems, and Computation and Language (Natural Language Processing), which have separate subject areas. In particular, includes Expert Systems, Theorem Proving (although this may overlap with Logic in Computer Science), Knowledge Representation, Planning, and Uncertainty in AI. Roughly includes material in ACM Subject Classes I.2.0, I.2.1, I.2.3, I.2.4, I.2.8, and I.2.11.'}
+}
+```
